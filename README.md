@@ -1,4 +1,4 @@
-# lauging-potato
+# Laughing-potato
 Hey There!
 This is the official git respository for the first project of Abell Coding Club.
 We currently are designing a game for both mobile and PC (console ports coming soon)
